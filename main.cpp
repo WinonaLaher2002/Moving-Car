@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream>     // modern C+
 #include <conio.h>
 #include <graphics.h>
 #include <stdlib.h>
@@ -50,3 +50,4 @@ void main()
 
     closegraph();
 }
+
